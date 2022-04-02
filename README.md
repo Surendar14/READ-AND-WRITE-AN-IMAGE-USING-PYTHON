@@ -89,18 +89,18 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-![output](./ss5.png)
+![output](./ss1.png)
 
 ### ii)Write the image
-![output](./ss3.png)
+![output](./ss2.png)
 
 ### iii)Shape of the Image
 
-![output](./ss1.png)
+![output](./ss3.png)
 ### iv)Access rows and columns
 ![output](./ss4.png)
 ### v)Cut and paste portion of image
-![output](./ss2.png)
+![output](./ss5.png)
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
